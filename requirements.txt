@@ -1,0 +1,5 @@
+pandas>=2.2,<4
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+lxml>=5,<7
+jupyterlab>=4,<5
